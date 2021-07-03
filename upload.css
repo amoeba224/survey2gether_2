@@ -1,0 +1,133 @@
+.back{
+    background:url("image/back.png");
+    background-size: contain;
+    position: absolute;
+    width: 17px;
+    height: 20px;
+    left: 28px;
+    top: 49px;
+}
+
+.title{
+    position: absolute;
+    width: 112px;
+    height: 33px;
+    left: 130px;
+    top: 86px;
+
+    font-family: Noto Sans KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 33px;
+    text-align: center;
+    color: #37B9A1;
+}
+
+.urlform{
+    position: absolute;
+    width: 244px;
+    height: 137px;
+    left: 66px;
+    top: 151px;
+    background: #E5E5E5;
+}
+
+.survey{
+    position: absolute;
+    width: 95px;
+    height: 25px;
+    left: 33px;
+    top: 294px;
+
+    font-family: Noto Sans KR;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 23px;
+    text-align: center; 
+    color: #000000;
+}
+
+.keywordform{
+    position: absolute;
+    width: 244px;
+    height: 137px;
+    left: 66px;
+    top: 340px;
+    background: #E5E5E5;
+}
+
+.keyword{
+    position: absolute;
+    width: 95px;
+    height: 25px;
+    left: 41px;
+    top: 483px;
+
+    font-family: Noto Sans KR;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 23px;
+    text-align: center;
+    color: #000000;
+}
+
+.infoform{
+    position: absolute;
+    width: 244px;
+    height: 151px;
+    left: 66px;
+    top: 529px;
+    background: #E5E5E5;
+
+    font-size:12px;
+}
+
+.info{
+    position: absolute;
+    width: 95px;
+    height: 25px;
+    left: 35px;
+    top: 686px;
+
+    font-family: Noto Sans KR;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 23px;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.savebutton{
+    position: absolute;
+    width: 60px;
+    height: 35px;
+    left: 285px;
+    top: 702px;
+    border-radius:30px;
+
+    background: #37B9A1;
+}
+
+.save{
+    position: absolute;
+    width: 39px;
+    height: 20px;
+    left: 296px;
+    top: 709px;
+
+    font-family: Noto Sans KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}

@@ -1,0 +1,75 @@
+.back{
+    background:url("image/back.png");
+    background-size: contain;
+    position: absolute;
+    width: 17px;
+    height: 20px;
+    left: 28px;
+    top: 49px;
+}
+
+.title{
+    position: absolute;
+    width: 112px;
+    height: 33px;
+    left: 130px;
+    top: 86px;
+
+    font-family: Noto Sans KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 33px;
+    text-align: center;
+    color: #37B9A1;
+}
+
+.surveypage{
+    position: absolute;
+    width: 375px;
+    height: 500px;
+    left: -1px;
+    top: 165px;
+
+    background: #D9EFED;
+}
+
+.previous{
+    background: url("image/back.png");
+    background-size: contain;
+    position: absolute;
+    width: 17px;
+    height: 20px;
+    left: 28px;
+    top: 709px;
+
+}
+
+.savebutton{
+    position: absolute;
+    width: 60px;
+    height: 35px;
+    left: 285px;
+    top: 702px;
+    border-radius:30px;
+
+    background: #37B9A1;
+}
+
+.save{
+    position: absolute;
+    width: 39px;
+    height: 20px;
+    left: 296px;
+    top: 709px;
+
+    font-family: Noto Sans KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}

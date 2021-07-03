@@ -1,0 +1,52 @@
+.finish{
+    position: absolute;
+    width: 327px;
+    height: 99px;
+    left: 24px;
+    top: 238px;
+
+    font-family: Noto Sans KR;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 23px;
+    line-height: 33px;
+    text-align: center;
+
+    color: #37B9A1;
+}
+
+.exciting{
+    background: url("image/singing.png");
+    background-size: contain;
+    position: absolute;
+    width: 180px;
+    height: 150px;
+    left: 113px;
+    top: 420px;
+}
+
+.homebutton{
+    position: absolute;
+    width: 74px;
+    height: 39px;
+    left: 151px;
+    top: 603px;
+    background: #37B9A1;
+    border-radius:30px;
+}
+
+.home{
+    position: absolute;
+    width: 42px;
+    height: 22px;
+    left: 167px;
+    top: 610px;
+
+    font-family: Noto Sans KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+}

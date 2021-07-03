@@ -1,0 +1,46 @@
+.back{
+    background:url("image/back.png");
+    background-size: contain;
+    position: absolute;
+    width: 17px;
+    height: 20px;
+    left: 28px;
+    top: 49px;
+}
+
+.title{
+    position: absolute;
+    width: 112px;
+    height: 33px;
+    left: 130px;
+    top: 86px;
+
+    font-family: Noto Sans KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 33px;
+    text-align: center;
+    color: #37B9A1;
+}
+
+.availablelists{
+    position: absolute;
+    width: 287px;
+    height: 500px;
+    left: 45px;
+    top: 165px;
+
+    background: #E5E5E5;
+}
+
+.next{
+    background: url("image/next.png");
+    background-size: contain;
+    position: absolute;
+    width: 20px;
+    height: 18px;
+    left: 315px;
+    top: 709px;
+
+}

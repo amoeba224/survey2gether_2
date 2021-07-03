@@ -1,0 +1,175 @@
+
+
+.survey2gether{
+    position: absolute;
+    width: 211px;
+    height: 42px;
+    left: 84px;
+    top: 74px;
+
+    font-family: Noto Sans KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 29px;
+    line-height: 42px;
+    /* identical to box height */
+    color: #37B9A1;
+}
+
+.profile{
+    position: absolute;
+    width: 168px;
+    height: 186px;
+    left: 106px;
+    top: 164px;
+    background: url("image/profile.jpg");
+    background-size: contain;
+}
+
+.name {
+    position: absolute;
+    width: 247px;
+    height: 33px;
+    left: 63px;
+    top: 346px;
+
+    font-family: Noto Sans KR;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 23px;
+    line-height: 35px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.star{
+    position: absolute;
+    width: 157px;
+    height: 32px;
+    left: 110px;
+    top: 390px;
+    background-image: url("image/stars.png");
+    background-size: contain;
+}
+
+.rating{
+    position: absolute;
+    width: 247px;
+    height: 33px;
+    left: 66px;
+    top: 430px;
+
+    font-family: Noto Sans KR;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.box1{
+    position: absolute;
+    width: 135px;
+    height: 113px;
+    left: 45px;
+    top: 500px;
+    background: #37B9A1;
+    border-radius:30px;
+}
+
+.box2{
+    position: absolute;
+    width: 135px;
+    height: 113px;
+    left: 201px;
+    top: 500px;
+    background: #37B9A1;
+    border-radius:30px;
+}
+
+.box3{
+    position: absolute;
+    width: 135px;
+    height: 113px;
+    left: 45px;
+    top: 625px;
+    background: #37B9A1;
+    border-radius:30px;
+}
+
+.box4{
+    position: absolute;
+    width: 135px;
+    height: 113px;
+    left: 202px;
+    top: 625px;
+    background: #37B9A1;
+    border-radius:30px;    
+}
+
+.available{
+    position: absolute;
+    width: 110px;
+    height: 28px;
+    left: 57px;
+    top: 542px;
+
+    font-family: Noto Sans KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 28px;
+    text-align: center;
+    color: #fbfffe;
+}
+
+.upload{
+    position: absolute;
+    width: 92px;
+    height: 28px;
+    left: 221px;
+    top: 542px;
+
+    font-family: Noto Sans KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 28px;
+    text-align: center;
+    color: #FBFFFE;
+}
+
+.mySurvey{
+    position: absolute;
+    width: 57px;
+    height: 28px;
+    left: 83px;
+    top: 668px;
+
+    font-family: Noto Sans KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 28px;
+    text-align: center;
+    color: #FBFFFE;
+}
+
+.point{
+    position: absolute;
+    width: 75px;
+    height: 28px;
+    left: 231px;
+    top: 668px;
+
+    font-family: Noto Sans KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 28px;
+    text-align: center;
+    color: #FBFFFE;
+}
